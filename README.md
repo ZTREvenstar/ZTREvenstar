@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm Sun xiaochuan's father
 -->
 
-- 🔭 I’m currently in CUHK, next move to UIUC
-- 🌱 I’m currently learning the nightmare CSCI4160 parallel and distributed computing. do not take if you don't want to fail
-- 🤔 I’m looking for help with CSCI4160
+- 🔭 I’m currently a Master of CS student in University of Illinois Urbana-Champaign
+- 🌱 I’m currently learning the nightmare CS444 Deep Learning for Computer Vision
+- 🤔 -/IGNORE I’m looking for help with CSCI4160
 - 💬 Ask me about Sid Meier's Civilization 6 and Lord of the ring!
 - 📫 How to reach me: ztrevenstar@gmail.com
 - 😄 Pronouns: Sun Xiaochuan's father
